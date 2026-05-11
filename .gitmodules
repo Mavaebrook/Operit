@@ -6,7 +6,7 @@
 	url = https://github.com/alibaba/MNN.git
 [submodule "tools/hotbuild/OperitNightlyRelease"]
 	path = tools/hotbuild/OperitNightlyRelease
-	url = git@github.com:AAswordman/OperitNightlyRelease.git
+	url = https://github.com/AAswordman/OperitNightlyRelease.git
 [submodule "llama/third_party/llama.cpp"]
 	path = llama/third_party/llama.cpp
 	url = https://github.com/ggml-org/llama.cpp
@@ -25,3 +25,6 @@
 [submodule "fbx/third_party/ufbx"]
 	path = fbx/third_party/ufbx
 	url = https://github.com/ufbx/ufbx.git
+[submodule "mmd/third_party/bullet3"]
+	path = mmd/third_party/bullet3
+	url = https://github.com/bulletphysics/bullet3.git
